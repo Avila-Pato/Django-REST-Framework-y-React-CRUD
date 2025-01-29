@@ -64,16 +64,12 @@ Para los estilos, se utilizó **Tailwind CSS**, un marco de diseño utility-firs
 
 ---
 
-## 📌 Contribuciones
+## REREFENCIAS 
+![Screenshot_29-1-2025_14485_localhost](https://github.com/user-attachments/assets/39e317fd-0133-413b-b74b-83d6767a9b90)
+## REREFENCIAS 
+![Screenshot_29-1-2025_192627_localhost](https://github.com/user-attachments/assets/5abbff9b-4a7d-474d-a151-f175fc60b17d)
+## REREFENCIAS 
+![Screenshot_29-1-2025_192638_localhost](https://github.com/user-attachments/assets/186b9637-a6e9-4400-8287-256f3bf1b737)
+## REREFENCIAS 
+![Screenshot_29-1-2025_192953_localhost](https://github.com/user-attachments/assets/902b82ff-4c0f-49b2-ab8f-8472a0fa0cfa)
 
-Si deseas contribuir a este proyecto, por favor abre un **issue** o envía un **pull request** con las mejoras. ¡Toda ayuda es bienvenida!
-
----
-
-## 👨‍💻 Contacto
-
-Si tienes alguna pregunta o deseas más información, no dudes en contactarme a través de mi [GitHub](https://github.com/Avila-Pato) o [correo electrónico](mailto:p.avilaf1998@gmail.com).
-
----
-
-¡Gracias por visitar el proyecto! 🎉
