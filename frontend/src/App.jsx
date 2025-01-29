@@ -3,6 +3,7 @@ import TaskPage from "./pages/TaskPage.jsx";
 import TaskFormPage from "./pages/TaskFormPage.jsx";
 import Navigation from "./components/Navigation.jsx";
 import { Toaster } from "react-hot-toast";
+import TaskEditPage from "./pages/TaskEditPage.jsx";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
           <Route path="/" element={<Navigate to="/tasks" />} />
           <Route path="/tasks" element={<TaskPage />} />
           <Route path="/tasks-create" element={<TaskFormPage />} />
+          <Route path="/tasks/edit/:id" element={<TaskEditPage />} />
         </Routes>
         <Toaster />
       </div>
